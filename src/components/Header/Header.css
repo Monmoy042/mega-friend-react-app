@@ -1,0 +1,16 @@
+.main-header {
+  width: 100%;
+  background-color: #010101;
+  text-align: center;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+.main-link {
+  color: #fff;
+  margin-left: 15px;
+  text-decoration: none;
+}
+.main-link:hover {
+  background-color: red;
+  border-radius: 5px;
+}
